@@ -172,12 +172,4 @@ Each notebook focuses on a specific concept and builds progressively toward real
 - Explore Transformers  
 - Work on production-ready ML systems  
 
----
-
-# 👨‍💻 Author
-
-**Your Name**
-
----
-
 ⭐ If you found this repository helpful, feel free to give it a star!
